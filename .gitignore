@@ -1,0 +1,28 @@
+# Visual Studio ve Derleme Dosyaları
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.user
+
+# Unreal Engine Geçici Klasörleri (Burası Çok Önemli)
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Paketleme Dosyaları
+Staging/
+
+# Config Dosyaları (Kullanıcıya özel ayarların gitmemesi için)
+Config/DefaultEditorPerProjectUserSettings.ini
+Config/EditorPerProjectUserSettings.ini
+
+# Starter Content (Eğer çok yer kaplıyorsa ve değiştirmeyeceksen açabilirsin, genelde kapalı kalır)
+# Content/StarterContent/
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
