@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Yusuf/Documents/Unreal Projects/sandwichJam2/Content/BPI_Interaction.uasset",
+				"C:/Users/Yusuf/Documents/Unreal Projects/sandwichJam2/Content/BP_TestCube.uasset",
+				"C:/Users/Yusuf/Documents/Unreal Projects/sandwichJam2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Yusuf/Documents/Unreal Projects/sandwichJam2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/23/NWVL69WP8A3JS98O60113Q.uasset",
 				"C:/Users/kerem/OneDrive/Belgeler/Unreal Projects/sandwichJam2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/kerem/OneDrive/Belgeler/Unreal Projects/sandwichJam2/Content/_BLUEPRINTS/Shake/BP_MShake.uasset",
 				"C:/Users/kerem/OneDrive/Belgeler/Unreal Projects/sandwichJam2/Content/FirstPerson/MI_FirstPersonColorway.uasset"
