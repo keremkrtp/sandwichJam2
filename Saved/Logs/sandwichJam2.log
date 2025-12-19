@@ -1343,3 +1343,16 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.19-21.58.34:320][289]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
 [2025.12.19-21.58.34:327][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2025.12.19-21.58.34:362][290]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.12.19-22.03.43:241][813]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1344.216064
+[2025.12.19-22.03.44:241][816]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.19-22.03.44:241][816]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1344.882568, Update Interval: 327.675415
+[2025.12.19-22.09.37:930][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1698.905396
+[2025.12.19-22.09.38:930][880]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.19-22.09.38:930][880]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1699.572144, Update Interval: 359.818726
+[2025.12.19-22.12.09:087][985]LogSlate: Window 'Revision Control Login' being destroyed
+[2025.12.19-22.16.11:940][978]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2092.914795
+[2025.12.19-22.16.12:940][981]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.19-22.16.12:940][981]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2093.581787, Update Interval: 316.875519
+[2025.12.19-22.22.13:630][ 63]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2454.602539
+[2025.12.19-22.22.14:631][ 66]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.19-22.22.14:631][ 66]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2455.269531, Update Interval: 310.950043
