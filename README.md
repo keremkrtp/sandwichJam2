@@ -1,9 +1,9 @@
-# [still-no-name]
+# Katil Kim
 
 **Developed for Sandwich Jam 2 Game Jam 2025**
 
 ## 🕵️‍♂️ Overview
-[still-no-name] is a psychological noir thriller and puzzle-exploration game. You play as a detective trapped within the shifting confines of a crime scene. As your sanity slips, the very walls around you betray your senses—rooms expand, hallways stretch, and the exit vanishes. To uncover the truth behind the murder, you must piece together fragmented memories while fighting to maintain control over your own mind.
+Katil Kim is a psychological noir thriller and puzzle-exploration game. You play as a detective trapped within the shifting confines of a crime scene. As your sanity slips, the very walls around you betray your senses—rooms expand, hallways stretch, and the exit vanishes. To uncover the truth behind the murder, you must piece together fragmented memories while fighting to maintain control over your own mind.
 
 ## 🌀 Theme: Losing Control
 The "Losing Control" theme is integrated into both the narrative and the core mechanics:
@@ -35,3 +35,4 @@ The "Losing Control" theme is integrated into both the narrative and the core me
 * **Core Architect:** Kerem (Movement, Sanity System, Puzzle Board (Inventory), Minigames)
 * **UI & Interaction Scripter:** Yusuf (User Interfaces (including Main Menu, Inventory Menu, Pause Menu), Side-Interactions)
 
+GameJam published version: https://fiuby.com/games/katil-kim
